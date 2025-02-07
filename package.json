@@ -1,0 +1,8 @@
+{
+  "name": "suicasso_script",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "@mysten/sui.js": "^0.37.1"
+  }
+}
