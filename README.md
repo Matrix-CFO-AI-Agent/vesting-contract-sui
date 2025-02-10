@@ -1,13 +1,6 @@
-# MoveFlow-Sui
+# Vesting Contract-Sui
 A crypto asset streaming protocol
-> Testnet Demo: https://www.moveflow.xyz/
 >
-
-# Introduction
-## In Brief
-MOVEFLOW is an crypto asset streaming protocol built on Move ecosystem.
-
-MOVEFLOW is able to transfer assets on chain according to predefined rules. With one transaction, funds will flow from your wallet to the recipient real-time(by second), to conduct timely financial transactions without intermediaries.
 
 ## Background
 In 2016, Andreas M. Antonopoulos delivered this exceptional keynote on “Streaming Money” at the Special Edition of the [Bitcoin Wednesday Conference at the Eye Film Museum in Amsterdam on 19 October, 2016](https://www.youtube.com/watch?v=l235ydAx5oQ).
